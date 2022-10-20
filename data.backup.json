@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Inugami Korone",
+        "gen": "2.5",
+        "image": "https://static.miraheze.org/hololivewiki/thumb/f/f3/Inugami_Korone_-_Portrait_05.png/290px-Inugami_Korone_-_Portrait_05.png",
+        "youtube": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "twitter": "https://twitter.com/inugamikorone",
+        "color": "#FEE039"
+    },
+    {
+        "id": 2,
+        "name": "Nekomata Okayu",
+        "gen": "2.5",
+        "image": "https://static.miraheze.org/hololivewiki/thumb/1/12/Nekomata_Okayu_-_Portrait_3D_01.png/290px-Nekomata_Okayu_-_Portrait_3D_01.png",
+        "youtube": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "twitter": "https://twitter.com/nekomataokayu",
+        "color": "#B190FC"
+    },
+    {
+        "id": 3,
+        "image": "https://static.miraheze.org/hololivewiki/thumb/7/7e/Roboco_-_Portrait_01-1.png/290px-Roboco_-_Portrait_01-1.png",
+        "color": "#D192FE",
+        "twitter": "https://twitter.com/robocosan",
+        "youtube": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "name": "Robocco San",
+        "gen": "0"
+    },
+    {
+        "id": 4,
+        "image": "https://static.miraheze.org/hololivewiki/thumb/9/97/Oozora_Subaru_-_Portrait_02-1.png/290px-Oozora_Subaru_-_Portrait_02-1.png",
+        "color": "#E5FB67",
+        "twitter": "https://twitter.com/oozorasubaru",
+        "youtube": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "name": "Oozora Subaru",
+        "gen": "2"
+    },
+    {
+        "id": 5,
+        "image": "https://static.miraheze.org/hololivewiki/thumb/a/a9/Himemori_Luna_-_Portrait_3D_01.png/290px-Himemori_Luna_-_Portrait_3D_01.png",
+        "color": "#F7ABD5",
+        "name": "Himemori Luna",
+        "gen": "4",
+        "twitter": "https://twitter.com/himemoriluna",
+        "youtube": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw"
+    },
+    {
+        "id": 6,
+        "image": "https://static.miraheze.org/hololivewiki/thumb/0/0b/Usada_Pekora_-_Portrait_05.png/290px-Usada_Pekora_-_Portrait_05.png",
+        "color": "#7EC2FE",
+        "name": "Usada Pekora",
+        "gen": "3",
+        "twitter": "https://twitter.com/usadapekora",
+        "youtube": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ"
+    },
+    {
+        "id": 7,
+        "image": "https://static.miraheze.org/hololivewiki/thumb/a/ab/Momosuzu_Nene_-_Portrait_3D_02-1.png/290px-Momosuzu_Nene_-_Portrait_3D_02-1.png",
+        "color": "#eeac5e",
+        "gen": "5",
+        "name": "Momosuzu Nene",
+        "twitter": "https://twitter.com/momosuzunene",
+        "youtube": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA"
+    },
+    {
+        "id": 8,
+        "image": "https://wows-wowsp-global.gcdn.co/media/ceph-image/36b42f80-90e3-11ea-8d08-38eaa7374f3c.png",
+        "color": "#43bfef",
+        "name": "Shirakami Fubuki",
+        "gen": "1",
+        "twitter": "https://twitter.com/shirakamifubuki",
+        "youtube": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg"
+    }
+]
