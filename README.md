@@ -6,6 +6,12 @@
 
 [**See the frontend app here!**](https://github.com/junhuitan2017/sutd-frontend)
 
+## Tech Stack
+- NodeJS
+- Express
+- Docker
+- Deployed on AWS EC2
+
 ## Setting up the project on AWS EC2 instance
 ### 1. Clone the repository in EC2
 ```
